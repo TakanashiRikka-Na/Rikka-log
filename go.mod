@@ -1,4 +1,4 @@
-module Rikka-log
+module  github.com/TakanashiRikka-Na/Rlog
 
 go 1.19
 
